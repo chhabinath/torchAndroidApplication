@@ -11,8 +11,8 @@ searching for something in the night, or simply need a light source in any situa
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](Screenshot/Screenshot_2.jpg)
+![Screenshot 2](Screenshot/Screenshot_1.jpg)
 
 
 ### Building from Source
